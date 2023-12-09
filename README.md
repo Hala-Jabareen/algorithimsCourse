@@ -1,2 +1,2 @@
 # algorithimsCourse 
-It contains all assignment for this course
+It contains all assignments for this course
